@@ -1,0 +1,147 @@
+*{
+    /* border: 1px solid black; */
+    /* background-color: rgb(236, 232, 232); */
+}
+.btn-sgn{
+    width: 100px !important;
+    border-radius: 13px;
+}
+.logo{
+    height: 55px;
+}
+.rbr{
+    border: 1px solid black;
+}
+.plogo{
+    height: 90px;
+    width: 190px;
+}
+.ft{
+    font-size: 12px;
+}
+
+/* register */
+.regbtn{
+    border-radius: 20px;
+}
+.bar{
+    background-color: #eceeef;
+}
+.fsr{
+    font-size: 13px;
+}
+
+/* home */
+
+/* .lvrbr{
+    border: 1px solid black;
+    border-radius: 10px;
+} */
+.lvimg{
+    border-radius: 10px;
+}
+.livingimg{
+    background-size: cover;
+}
+.bybtn{
+    width: 100px;
+}
+
+/* cart  */
+
+.crbtn{
+    width: 410px;
+}
+.crtimg{
+    height: 200px;
+}
+.btnl{
+   
+    height: 50px;
+}
+
+/* watchlist */
+
+.wlbtn{
+    width: 850px;
+}
+.spbtn{
+    width: 380px;
+}
+
+/* invoice */
+
+.invimg{
+    height: 150px;
+}
+
+.invfs{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+/* user profile */
+
+.ppic{
+    width: 200px;
+    border-radius: 5px;
+}
+
+/* Advance Search */
+
+.srchbr{
+    width: 560px;
+}
+
+.srtbr{
+    width: 300px;
+}
+
+.clrbox{
+    width: 30px;
+    height: 30px;
+    border: 2px solid black; 
+    border-radius: 4px;
+}
+
+/* about us */
+
+.abbox{
+    background-color: #612578;
+    
+}
+.crlbox{
+    
+    height: 400px;
+}
+
+/* contact us */
+
+.map{
+    width: 1000px;
+    height: 440px;
+}
+.cupic{
+    width: 1350px;
+    height: 450px;
+}
+
+/* product */
+
+.pdtbtn{
+    width: 300px;
+    height: 60px;
+    border: 3px solid gray;
+}
+.fsc{
+    font-size: 21px;
+    font-weight: bold;
+}
+.cltdiv{
+    width: 300px;
+    height: 320px;
+    border-radius: 6px;
+}
+.pdtct{
+    width: 40px;
+}
